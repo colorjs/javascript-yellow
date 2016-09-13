@@ -1,4 +1,7 @@
+var fs = require('fs')
+var path = require('path')
+
 module.exports = {
   color: '#f7df1e',
-  logo: require('fs').readFileSync('./js.svg', 'utf-8')
+  logo: f.readFileSync(path.join(__dirname, 'js.svg'), 'utf-8')
 }

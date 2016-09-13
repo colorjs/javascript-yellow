@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "The official color of the JavaScript logo",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zeke/javascript-yellow"
-  },
+  "repository": "https://github.com/zeke/javascript-yellow",
   "keywords": [
     "javascript",
     "yellow",
@@ -16,9 +13,5 @@
     "rgv"
   ],
   "author": "zeke",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zeke/javascript-yellow/issues"
-  },
-  "homepage": "https://github.com/zeke/javascript-yellow"
+  "license": "MIT",
 }
