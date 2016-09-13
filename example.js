@@ -1,4 +1,4 @@
-const yellow = require('./')
+const yellow = require('.')
 
 {
   color: '#f7df1e',
