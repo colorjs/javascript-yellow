@@ -1,6 +1,5 @@
 const yellow = require('.')
+const logo = require('./logo')
 
-{
-  color: '#f7df1e',
-  logo: '<svg>...</svg>'
-}
+// yellow = '#f7df1e'
+// logo = '<svg>...</svg>'
