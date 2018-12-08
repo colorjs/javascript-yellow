@@ -12,4 +12,4 @@ const logo = require('javascript-yellow/logo')
 // logo = '<svg>...</svg>'
 ```
 
-<img src="https://cdn.rawgit.com/zeke/javascript-yellow/master/logo.svg">
+<img src="https://cdn.jsdelivr.net/gh/zeke/javascript-yellow/logo.svg">
