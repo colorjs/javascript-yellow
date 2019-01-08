@@ -1,1 +1,1 @@
-module.exports = '#f7df1e';
+module.exports = 'yellow';
